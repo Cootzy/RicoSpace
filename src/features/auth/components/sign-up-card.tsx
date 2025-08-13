@@ -108,7 +108,7 @@ export const SignUpCard = () => {
               )}
             />
             <Button disabled={isPending} size="lg" className="w-full">
-              Click Me
+              Lets Go!
             </Button>
           </form>
         </Form>
